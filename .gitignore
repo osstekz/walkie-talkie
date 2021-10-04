@@ -2,8 +2,8 @@
 *
 # But descend into directories
 !*/
-# Recursively allow files under apks
-!/apks/**
+# Recursively allow files under .builds
+!/.builds/**
 # You can be specific with these rules
 # !/some/other/deep/path/**
 !.gitignore 
