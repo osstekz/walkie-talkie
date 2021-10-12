@@ -1,6 +1,6 @@
 {
    "appname": "wfwt",
-   "appcode": 2,
+   "appcode": 4,
    "apk": "org.osstekz.wfwt.apk",
    "installdir": "$cache"
 }
